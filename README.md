@@ -4,9 +4,10 @@
 ## Brief
 * Due: <b>xxx. xx</b>, 11:59pm
 * Required files: 
-* xxxxx reference: 
+* Reference: 
 
 ## Overview
+...
 
 ## Goals
 * Pre-process
