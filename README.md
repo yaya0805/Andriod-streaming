@@ -2,9 +2,9 @@
 # DASH-compliant (Dynamic Adaptive Streaming over HTTP) live streaming system
 
 ## Brief
-* Due: <b>xxx. xx</b>, 11:59pm.
+* Due: <b>xxx. xx</b>, 11:59pm
 * Required files: 
-* xxxxx reference: <a href="http://www.xxxxxx</a>
+* xxxxx reference: 
 
 ## Overview
 
